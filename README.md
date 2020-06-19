@@ -7,4 +7,5 @@ Reference for docker related projects
 * https://tuw-cpsg.github.io/tutorials/docker-ros/
 * https://linuxize.com/post/how-to-build-docker-images-with-dockerfile/
 * https://github.com/docker/buildx#-o---outputpath-typetypekeyvalue
+* https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html
 
